@@ -146,6 +146,7 @@ airbnb-performance-power-bi-dashboard/
 Data Analyst | Power BI • SQL • DAX  • Excel  
 
 📧 Email: chavanrakesh666@gmail.com  
-🔗 LinkedIn: *your-linkedin-link*  
-💻 GitHub: *your-github-link*
+🔗 LinkedIn: [Rakesh Chavan](https://www.linkedin.com/in/rakesh-chavan-1b3ab9136/)  
+💻 GitHub: [rakeshchavan-analytics](https://github.com/rakeshchavan-analytics)
+🌐 Portfolio: [Explore My Work](https://sites.google.com/view/rakeshchavan09/home)
 
