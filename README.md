@@ -111,8 +111,8 @@ The dashboard consists of **3 analytical pages**, each focusing on a different a
 ```
 airbnb-performance-power-bi-dashboard/
 │
-├── Data/ → Airbnb dataset used for analysis
-├── Reports/ → Power BI (.pbix) and PDF files
+├── Data/             → Airbnb dataset used for analysis
+├── Reports/          → Power BI (.pbix) and PDF files
 ├── Dashboard_images/ → Dashboard preview images
 └── Dashboard_images/ → Dashboard preview images
 ```
@@ -143,9 +143,9 @@ airbnb-performance-power-bi-dashboard/
 
 **Rakesh Chavan**  
 
-Data Analyst | Power BI • SQL • Excel  
+Data Analyst | Power BI • SQL • DAX  • Excel  
 
-📧 Email: *your-email@example.com*  
+📧 Email: chavanrakesh666@gmail.com  
 🔗 LinkedIn: *your-linkedin-link*  
 💻 GitHub: *your-github-link*
 
