@@ -108,14 +108,14 @@ The dashboard consists of **3 analytical pages**, each focusing on a different a
 
 ## 📂 Project Structure 
 
-airbnb-performance-dashboard/
+```
+airbnb-performance-power-bi-dashboard/
 │
 ├── Data/ → Airbnb dataset used for analysis
 ├── Reports/ → Power BI (.pbix) and PDF files
 ├── Dashboard_images/ → Dashboard preview images
-└── README.md → Project documentation
-
-
+└── Dashboard_images/ → Dashboard preview images
+```
 -------------------------------------------------------------
 
 # 📚 Skills Demonstrated
