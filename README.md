@@ -107,7 +107,7 @@ The dashboard consists of **3 analytical pages**, each focusing on a different a
 -------------------------------------------------------------
 
 ## 📂 Project Structure 
-'''
+
 airbnb-performance-dashboard/
 │
 ├── Data/ → Airbnb dataset used for analysis
@@ -115,7 +115,7 @@ airbnb-performance-dashboard/
 ├── Dashboard_images/ → Dashboard preview images
 └── README.md → Project documentation
 
-'''
+
 -------------------------------------------------------------
 
 # 📚 Skills Demonstrated
