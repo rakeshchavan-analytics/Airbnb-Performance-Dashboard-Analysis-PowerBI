@@ -120,7 +120,6 @@ airbnb-performance-power-bi-dashboard/
 │
 ├── Data/             → Airbnb dataset used for analysis
 ├── Reports/          → Power BI (.pbix) and PDF files
-├── Dashboard_images/ → Dashboard preview images
 └── Dashboard_images/ → Dashboard preview images
 ```
 -------------------------------------------------------------
