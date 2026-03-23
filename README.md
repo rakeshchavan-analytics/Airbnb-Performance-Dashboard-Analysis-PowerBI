@@ -102,8 +102,13 @@ The dashboard consists of **3 analytical pages**, each focusing on a different a
 - **DAX (Data Analysis Expressions)**  
 - Data Modeling  
 - Data Cleaning & Transformation  
-- Interactive Data Visualization  
+- Interactive Data Visualization
 
+------------------------------------------------------------- 
+## 📊 Live Dashboard
+
+🚀 Explore the interactive Power BI dashboard here:  
+👉 [Click to View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzRlNGIwMjEtNDZhZi00ZThiLTk5ZTItOWQ0MjFhZDc0N2RjIiwidCI6IjljNWIzMzM4LWViYmUtNDhiMC05NWY3LTgyZTliMTEyOTNmNCJ9)
 -------------------------------------------------------------
 
 ## 📂 Project Structure 
